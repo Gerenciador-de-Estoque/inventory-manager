@@ -1,1 +1,1 @@
-# B7Estoque (Frontend)
+# Inventory Manager (Frontend)
