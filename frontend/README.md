@@ -1,1 +1,1 @@
-# Inventory Manager (Frontend)
+# inventory-manager (Frontend)
