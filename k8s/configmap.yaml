@@ -11,4 +11,4 @@ data:
   PORT: "3001"
   NODE_ENV: production
   BASE_URL: http://localhost:30081
-  NEXT_PUBLIC_API_BASE_URL: http://backend-service:3001
+  NEXT_PUBLIC_API_BASE_URL: http://localhost:30081
